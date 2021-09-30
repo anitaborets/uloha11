@@ -1,0 +1,12 @@
+id,partNo,serialNo,name,description,numberInStock,price
+41,15,32072,Kreslo,"Kreslo fialove",8,550.00
+42,12,32068,Komoda,"Komoda buk",5,380.00
+43,14,32067,Komoda,"Komoda dub",3,720.00
+44,08,32054,Stol,"Stol dub",13,620.00
+70,07,32057,Stolicka,"Stolicka dub",6,380.00
+71,25,32058,Postel,"Postel dub",10,880.00
+77,4,25036,Komoda,"Komoda jasen",4,250.00
+87,25,32058,Postel,"Postel jasen",0,980.00
+88,46,32768,Komoda,"Komoda jasen",0,380.00
+89,47,32768,Komoda,"Komoda fialova",0,360.00
+90,8,25056,Kreslo,"Kreslo cervene",12,480.00
